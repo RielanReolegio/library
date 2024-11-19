@@ -133,5 +133,3 @@ The Library API allows users to manage books, authors, and accounts with various
 
 ---
 
-## Developed By:
-- JAN RIELAN REOLEGIO 4-B
